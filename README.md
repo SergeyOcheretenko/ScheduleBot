@@ -28,7 +28,7 @@ ScheduleBot - проект, створений для перенесення р�
 
 ## Використані технології
 
-**WebAPI:** NestJS, TypeScript (Node.js), TypeORM.
-**СУБД:** PostgreSQL.
-**Telegram:** Telegraf.js, TypeScript.
-**Тестування:** Jest.
+**WebAPI:** NestJS, TypeScript (Node.js), TypeORM.  
+**СУБД:** PostgreSQL.  
+**Telegram:** Telegraf.js, TypeScript.  
+**Тестування:** Jest.  
